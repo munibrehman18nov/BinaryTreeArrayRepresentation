@@ -1,0 +1,17 @@
+﻿  BinaryTree.cpp
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(26): note: while compiling class template member function 'BinaryTree<int>::BinaryTree(int)'
+  e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(366): note: see reference to class template instantiation 'BinaryTree<int>' being compiled
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(9): note: while compiling class template member function 'BinaryTree<int>::BinaryTree(void)'
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(46): note: while compiling class template member function 'void BinaryTree<int>::setHeight(T)'
+          with
+          [
+              T=int
+          ]
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(62): warning C4715: 'BinaryTree<int>::getRoot': not all control paths return a value
+e:\visual studio 2015\programs\a. professional-projects\binary tree array representation\binary tree using array\binarytree.cpp(132): warning C4715: 'BinaryTree<int>::getParent': not all control paths return a value
+  Binary Tree using Array.vcxproj -> E:\Visual Studio 2015\Programs\A. Professional-Projects\Binary Tree Array Representation\Debug\Binary Tree using Array.exe
+  Binary Tree using Array.vcxproj -> E:\Visual Studio 2015\Programs\A. Professional-Projects\Binary Tree Array Representation\Debug\Binary Tree using Array.pdb (Full PDB)
